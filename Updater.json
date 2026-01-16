@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
-  "downloadUrl": "https://github.com/sooxee/testUPdater/releases/download/v1.0.6/Setup.exe",
-  "releaseNotes": "CSQ测试增加到10次\n修复一些bug"
+  "version": "1.0.8",
+  "downloadUrl": "https://github.com/sooxee/testUPdater/releases/download/v1.0.8/Setup.exe",
+  "releaseNotes": "添加全局错误异常处理\n修复一些bug"
 }
